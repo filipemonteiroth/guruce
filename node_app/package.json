@@ -1,0 +1,10 @@
+{
+  "name": "node-app",
+  "description": "projeto real-time de cadastros de usuarios",
+  "author": "filipe@tfsolutions.com.br",
+  "dependencies": {    
+    "socket.io": "",
+    "redis": ""
+  },
+  "engine": "node 0.10.25"
+}

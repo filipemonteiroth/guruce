@@ -1,0 +1,6 @@
+<div id="usersOnline" ng-controller="UsersController" data-ng-init="init()">
+	<h3>Usuários online</h3>
+	<div ng-repeat="user in users">
+		<p>{{user.nickname}} - {{user.age}}</p>
+	</div>
+</div>
