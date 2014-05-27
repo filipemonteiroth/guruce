@@ -36,5 +36,6 @@ node app
 URLs for testing
 ================
 
-http://localhost:3000/users/new
-http://localhost:3000/users_app
+[http://localhost:3000/users/new](http://localhost:3000/users/new)
+
+[http://localhost:3000/users_app](http://localhost:3000/users_app)
