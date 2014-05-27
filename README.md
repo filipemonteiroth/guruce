@@ -10,7 +10,7 @@ Running the apps
 
 Before starting applications, make sure you have redis installed and running.
 
-** Rails App **
+**Rails App**
 
 In the directory **$project/rails_app** run:
 
@@ -26,7 +26,7 @@ bundle exec sidekiq
 
 In the directory **$project/node_app** run:
 
-** Node App **
+**Node App**
 
 ```nodejs
 npm install
